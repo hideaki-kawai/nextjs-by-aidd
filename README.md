@@ -50,4 +50,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 │       ├── libs               # 共通で使うライブラリのラッパー
 │       └── types              # 共通で使う型定義
 └── tsconfig.json
+└── renovate.json              # renovate設定
 ```
